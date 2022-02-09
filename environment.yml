@@ -1,3 +1,5 @@
 name: uclgeog
 dependencies:
   - numpy
+  - matplotlib
+  - scipy
